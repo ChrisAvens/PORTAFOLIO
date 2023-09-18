@@ -1,0 +1,52 @@
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.exe
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.deps.json
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.runtimeconfig.json
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.dll
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.pdb
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.vbproj.AssemblyReference.cache
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.Resources.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.vbproj.GenerateResource.cache
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.AssemblyInfoInputs.cache
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.AssemblyInfo.vb
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.vbproj.CoreCompileInputs.cache
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.dll
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\refint\Prepa_Director.dll
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.pdb
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.genruntimeconfig.cache
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\ref\Prepa_Director.dll
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.Borrar_Director.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmCali.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmCambiarContra.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.FrmIniSec.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.FrmMaterias.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmSesionEstudiante.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.Menu_Director.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmDocente.resources
+C:\Users\zapat\source\repos\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.FrmRegs.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.vbproj.AssemblyReference.cache
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.Borrar_Director.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmCali.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmCambiarContra.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.FrmIniSec.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.FrmMaterias.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmSesionEstudiante.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.Menu_Director.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.frmDocente.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.Resources.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.FrmRegs.resources
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.vbproj.GenerateResource.cache
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.AssemblyInfoInputs.cache
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.AssemblyInfo.vb
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.vbproj.CoreCompileInputs.cache
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.dll
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\refint\Prepa_Director.dll
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.pdb
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.exe
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.deps.json
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.runtimeconfig.json
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.dll
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\bin\Debug\net6.0-windows\Prepa_Director.pdb
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\Prepa_Director.genruntimeconfig.cache
+C:\Users\avens\Desktop\PROYECTO FINAL INTERFACES\Prepa_Director\Prepa_Director\obj\Debug\net6.0-windows\ref\Prepa_Director.dll

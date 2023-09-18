@@ -1,0 +1,4 @@
+Usuario1 Contraseña123 10100
+Credito 456 10101
+Cokisexo 123456 10102
+Chris 123 10103
